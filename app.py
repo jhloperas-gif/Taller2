@@ -1,3 +1,4 @@
+# Comentario de aporte taller 2 de Laura
 import dash
 from dash import dcc
 from dash import html
